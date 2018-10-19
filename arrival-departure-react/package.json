@@ -1,0 +1,33 @@
+{
+  "name": "first-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.1",
+    "chart.js": "^2.7.2",
+    "dropdowns": "^1.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.17",
+    "react": "^16.4.1",
+    "react-bootstrap-multiselect": "^2.4.1",
+    "react-chartjs-2": "^2.7.2",
+    "react-collapsible": "^2.2.0",
+    "react-datepicker": "^1.5.0",
+    "react-dates": "^16.7.0",
+    "react-dom": "^16.4.1",
+    "react-moment": "^0.7.0",
+    "react-multiselect-dropdown": "^2.0.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-select": "^1.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

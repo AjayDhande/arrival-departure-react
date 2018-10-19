@@ -1,0 +1,107 @@
+html {
+  font-family: sans-serif;
+}
+body {
+  font-family: "Roboto Condensed", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+p {
+  font-family: inherit;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  text-rendering: optimizeLegibility;
+}
+#data_div,#source_div,#source_sign_minus,#data_sign_minus {
+  display: none;
+}
+.stick-right {
+  float: right;
+}
+.stick-left {
+  float: left;
+}
+.margin-top {
+  margin-top: 20px;
+}
+.footer {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 18px;
+}
+header {
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+  font-weight: 700;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.12);
+  border-bottom: 1px solid #e0e3e4;
+}
+.logout-button-div {
+  margin-left: -20px;
+  margin-top: 8px;
+}
+.container-dash {
+  margin-bottom: 10%;
+}
+.white-color {
+  color: white;
+}
+.table-header-div {
+  padding-top:10px; 
+  margin-left: 0px !important;
+  margin-right:0px !important;
+  height: 50px;
+  width: auto  !important;
+}
+.text-center {
+  text-align: center;
+}
+.footer-color {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.71) , #979797);
+  height: 9%;
+}
+.header-text {
+  z-index: 1000;
+  left: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: "Roboto Condensed", "Helvetica", Helvetica, Arial, sans-serif;
+  margin-top: -20px;
+  margin-bottom: -20px;
+}
+td,th {
+  font-family: "Roboto Condensed", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  vertical-align:middle !important;
+}
+.logout-button-div {
+  text-align: center;
+  padding-top: 10px;
+}
+.label {
+  font-size: 100%;
+}
+tr {
+  line-height: 14px !important;
+  font-size: 85%;
+}
+nav {
+  margin-top: 0.1rem !important;
+}
+.lablel-top {
+  margin-top: -0.9rem !important;
+}
